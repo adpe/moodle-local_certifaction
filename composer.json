@@ -1,0 +1,6 @@
+{
+    "require": {
+        "adpe/php-certifaction-api": "^0.1.0",
+        "kornrunner/keccak": "^1.1"
+    }
+}
